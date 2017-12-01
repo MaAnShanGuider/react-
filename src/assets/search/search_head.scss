@@ -1,0 +1,22 @@
+.search_head{
+	font:.3rem/.6rem '';
+	background:#333;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;	
+	text-align:center;
+	i{
+		width:.44rem;
+		height:.44rem;
+		font:.3rem/.44rem '';
+		color:white;
+
+	}
+	.search_head_input{
+		height:.3rem;
+		width:2.87rem;
+		border:none;
+		border-radius:.02rem;
+
+	}
+}

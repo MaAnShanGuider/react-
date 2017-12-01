@@ -1,0 +1,27 @@
+.detail{
+	text-align: center;
+	img{
+		display: block;
+		width:100%;
+	}
+	h4{
+		font:.34rem/.38rem '';
+
+	}
+	p{
+		font:.34rem/.40rem '';
+		span{color:orange;
+		}
+	}
+	button{
+		display: block;
+		font:.34rem/.38rem '';
+		border:none;
+		background: #90ff00;
+		padding:.1rem;
+		color:#f1a970;
+		border-radius:.1rem;
+		margin:auto;
+
+	}	
+}

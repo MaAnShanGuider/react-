@@ -1,0 +1,17 @@
+.game{
+	padding-top: .44rem;
+	padding-bottom:.56rem;
+	position: relative;
+	z-index: 1;
+	left:0;
+	top:0;
+	.swiper_div{
+		border-bottom: .01rem solid #666;
+		img{
+			display: block;
+			height: 1.84rem;
+			width:3.75rem;
+		}
+	}
+
+}

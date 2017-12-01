@@ -1,0 +1,38 @@
+.detailhead{
+	position: fixed;
+	top:0;
+	left:0;
+	height: .44rem;
+	width:100%;
+	background: #333;
+	display: flex;
+	justify-content:space-between;
+	text-align: center;
+	align-items:center;
+	z-index: 10;
+	i{
+		width:48px;
+		font:.3rem/.44rem '';
+		color:#ccc;
+
+	}
+	.detailhead_middle{
+		width:1.22rem;
+		height:.27rem;
+		border:.01rem solid #ccc;
+		display: flex;
+		justify-content:flex-start;
+		
+		a{
+			width:.61rem;
+			font:.12rem/.27rem '';
+			color:#ccc;
+			text-decoration:none;
+
+		}
+		.active{
+			background: #ccc;
+			color:#333;
+		}
+	}
+}
